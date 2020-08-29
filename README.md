@@ -3,11 +3,10 @@ Ever had a laptop 💻 which is not powerful enough to run your models , forget 
 
 
 
-* Also get to know where you can [**deploy**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#deploy-your-model-as-a-web-app) your model to serve millions of people
+* Also get to know where you can deploy your model to serve millions of people *
 
-* Check out the **free credits** and [**Perks/offer**](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/README.md#perks-and-offers) section to get some free gpu hours 
 
-Last updated : 10 August 2020
+Last updated : 29 August 2020
 
  |# | Cloud vendor   |      Website      |  Pricing | Free Trial / Free Credits | 
 | ---|----------|---------| -------- | ----------|
@@ -85,12 +84,6 @@ If you are a student or researcher you can get extra credts , contact the provid
 * Google colab and Kaggle kernels have limited session time 
 * Most of the gpu providers run on top of AWS , GCP etc so may have more or less same pricing as the latter
 * Information given above is best to my searching ability , you may recheck with the provider for pricing and other info
-* [license](https://github.com/zszazi/Deep-learning-in-cloud/blob/master/LICENSE)
-
-* Check out my other repo where I put together Awesome google colab notebook - [link](https://github.com/zszazi/awesome-collection-of-google-colab-notebooks)
-
- 
- 
  
  
   <p align="center"> Made with ❤️ for awesome AI community </p>
